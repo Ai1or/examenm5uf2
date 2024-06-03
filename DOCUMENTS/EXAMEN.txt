@@ -11,3 +11,11 @@ git add .
 git commit -m "Commit LICENSE"
 git push https://github.com/Ai1or/examenm5uf2.git master
 
+git nano .gitignore
+git status -s
+git add .
+git commit -m "Exclusion versio3"
+git push https://github.com/Ai1or/examenm5uf2.git master
+
+
+

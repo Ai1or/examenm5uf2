@@ -1,0 +1,7 @@
+git mkdir eamenm5uf2
+git add .
+git status -s
+git init
+git commit -m "Commit versio1"
+git remote add exmenm5uf2 https://github.com/Ai1or/examenm5uf2.git
+git push examenm5uf2

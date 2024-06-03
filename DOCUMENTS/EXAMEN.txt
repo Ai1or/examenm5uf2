@@ -21,6 +21,15 @@ git add .
 git commit -m "Commit versio4"
 git push https://github.com/Ai1or/examenm5uf2.git master
 
+git add .
+git commit -m "Commit versio5"
+git push https://github.com/Ai1or/examenm5uf2.git master
+
+git branch ampliació
+git checkout ampliació
+git add .
+git push https://github.com/Ai1or/examenm5uf2.git master
+
 
 
 

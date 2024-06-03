@@ -3,5 +3,11 @@ git add .
 git status -s
 git init
 git commit -m "Commit versio1"
-git remote add exmenm5uf2 https://github.com/Ai1or/examenm5uf2.git
-git push examenm5uf2
+git remote add exmenm5uf2 https://github.com/Ai1or/examenm5uf2.git 
+git push examenm5uf2 master
+
+
+git add .
+git commit -m "Commit LICENSE"
+git push https://github.com/Ai1or/examenm5uf2.git master
+

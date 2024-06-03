@@ -28,7 +28,16 @@ git push https://github.com/Ai1or/examenm5uf2.git master
 git branch ampliació
 git checkout ampliació
 git add .
+git commit -m "Commit versio6"
+git push https://github.com/Ai1or/examenm5uf2.git ampliació
+
+git checkout master
+git merge ampliació
+git log --oneline
 git push https://github.com/Ai1or/examenm5uf2.git master
+
+
+
 
 
 
